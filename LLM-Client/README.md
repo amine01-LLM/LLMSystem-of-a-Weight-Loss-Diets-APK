@@ -1,6 +1,6 @@
-# AGH Nutrition AI — LLM_Client Module
+# Nutrition AI — LLM_Client Module
 
-> **Cahier de charge:** AGH Data Agency Holding — APK Régime & Perte de Poids
+> **Cahier de charge:**   Data Agency Holding — APK Régime & Perte de Poids
 > **Responsible:** Bilal
 > **Architecture:** 95% client-side / 5% server-side — 100% offline after setup
 
